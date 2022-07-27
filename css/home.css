@@ -1,11 +1,5 @@
 /* screen - home */
 @media only screen and (orientation:portrait) {
-  body {
-    height: 1080px;
-    width: 1920px;
-    transform: rotate(90deg);
-  }
-}
 .home {
   align-items: flex-start;
   display: flex;
