@@ -1,7 +1,8 @@
 /* screen - home */
 @media only screen and (orientation:portrait) {
   body {
-    height: 1080vw;
+    height: 1080px;
+    width: 1920px;
     transform: rotate(90deg);
   }
 }
