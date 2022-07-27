@@ -1,6 +1,7 @@
 /* screen - home */
-@media only screen and (orientation:portrait) {
-.home {
+{
+
+  .home {
   align-items: flex-start;
   display: flex;
   width: 1920px;
